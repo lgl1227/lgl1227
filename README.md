@@ -43,9 +43,11 @@ Here are some ideas to get you started:
 
 #### Research Interests
 ##### The Image processing of Artificial Intelligence Computer Vision  
+##### Other interesting things , such as some Algorithms
 
 #### Contact
 
 [![](https://img.shields.io/badge/-mail-007396?logo=Gmail&logoColor=ffffff)](mailto:lgl1227404395@126.com)
 [![](https://img.shields.io/badge/-Zhihu-007396?logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/lgl1227)
+[![](https://img.shields.io/badge/-CSDN-007396?logo=CSDN&logoColor=ffffff)](https://blog.csdn.net/oqzuser387215300?spm=1000.2115.3001.5343)
 
