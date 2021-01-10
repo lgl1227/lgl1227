@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/xingjiahui/CDN@latest/2020/10/26/4e7c0bddf9113cb320df713cd49c704f.png" />
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 #### Page view
 
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
 
 #### Research Interests
-##### The Image processing of Artificial Intelligence Computer Vision  
-##### Other interesting things , such as some Algorithms
+ The Image processing of Artificial Intelligence Computer Vision  
+ Other interesting things , such as some Algorithms
 
 #### Contact
 
