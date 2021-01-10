@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### Page view
 
-![](http://antzuhl.cn:4000/get/@antzuhl.readme)
+![](http://antzuhl.cn:4000/get/@lgl1227.readme)
 
 #### System
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IntelliJ%20IDEA-2020.1.2-FE305E?logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/PyCharm-2019.3.5-1BD88A?logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Microsoft%20Edge%20-%2086.0.622.5-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
-[![](https://img.shields.io/badge/Google%20Chrome%20-%2087.0.4280.88-366DBF?logo=Google%20Chrome%20&logoColor=ffffff)](https://www.google.com/intl/zh-CN/chrome/)
-[![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.google.com%2Fintl%2Fzh-CN%2Fchrome%2F)]
+[![](https://img.shields.io/badge/Google%20Chrome%20-%2087.0.4280.88-#4285F4?logo=Google%20Chrome%20&logoColor=ffffff)](https://www.google.com/intl/zh-CN/chrome/)
+
 
 
 #### Language
