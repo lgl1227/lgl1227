@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### System
 
-[![](https://img.shields.io/badge/Windows-2004-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
+[![](https://img.shields.io/badge/Windows-10-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
 [![](https://img.shields.io/badge/Android-10.0-3DDC84?logo=Android&logoColor=ffffff)](https://developer.android.google.cn/)
 
 #### Tools
