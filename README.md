@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align='center' src="./zinv-2.gif" width="530">
+<img align='right' src="./zinv-2.gif" width="430">
 
 #### Page view
 
