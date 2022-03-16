@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align='right' src="./zinv-2.gif" width="430">
+<img align='right' src="./zinv-.gif" width="530">
 
 #### Page view
 
-![](http://antzuhl.cn:4000/get/@lgl1227.readme)
+
 
 #### System
 
