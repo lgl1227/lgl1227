@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align='right' src="https://media.giphy.com/media/YuMrL65R8dYqWnSI77/giphy-downsized-large.gif" width="230">
+<img align='center' src="./zinv-2.gif" width="230">
 
 #### Page view
 
