@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
+[![](https://img.shields.io/badge/-Mariadb-003545?style=flat-square&logo=mysql&logoColor=white)](https://mariadb.com/)
 [![](https://img.shields.io/badge/-Python3-3776AB?logo=python&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
