@@ -49,8 +49,10 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
 
 #### Research Interests
- The Image processing of Artificial Intelligence Computer Vision  
- Other interesting things , such as some Algorithms
+ - 🔭 I’m currently working on the development of eda software.
+ - 🌱 I’m currently learning Compilation Principle, F4pga, Linux Kernel.
+ - 😄 intresting: The Image processing of Artificial Intelligence Computer Vision and LeetCode DataStruce Algorithms.
+ - ⚡ Fun fact: I am currently engaged in the development of fpga software.
 
 #### Contact
 
@@ -59,7 +61,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-CSDN-007396?logo=Blogger&logoColor=ffffff)](https://blog.csdn.net/oqzuser387215300?spm=1000.2115.3001.5343)
 [![](https://img.shields.io/badge/-Bilibili-007396?logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/356364558)
 [![](https://img.shields.io/badge/-Blog-007396?logo=appveyor&logoColor=ffffff)](https://lgl1227.github.io/)
-
 
 
 <table>
