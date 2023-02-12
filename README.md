@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 
 #### Language
-
-[![](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)]()
+[![](https://img.shields.io/badge/-C++-A8B9CC?logo=Cplusplus&logoColor=white)]()
 [![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)]()
 [![](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white)]()
