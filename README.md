@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### Page view
 
-<img align='left' src="./zinv.gif" width="430">
+<img align='right' src="./zinv.gif" width="430">
 
 #### System
 
