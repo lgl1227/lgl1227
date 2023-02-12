@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 <img align='right' src="./zinv.gif" width="430">
+[![AlexCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgl1227)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Page view
 
