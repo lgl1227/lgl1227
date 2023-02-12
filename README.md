@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align='right' src="./zinv.gif" width="430">
+<img align='center' src="./zinv.gif" width="430">
 
 #### Page view
 [![AlexCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgl1227&show_icons=true&theme=radical)](https://github.com/lgl1227/lgl1227)
