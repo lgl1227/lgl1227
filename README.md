@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Personal Profile 👋
 
-![AlexCoding's GitHub private stats](https://github-readme-stats.vercel.app/api?username=lgl1227&show_icons=true&theme=synthwave&count_private=true)
+[![AlexCoding's GitHub private stats](https://github-readme-stats.vercel.app/api?username=lgl1227&show_icons=true&theme=radical&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgl1227&layout=compact)]
-![AlexCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgl1227&show_icons=true&theme=radical)
 
 
 #### Page view
