@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-#### Language
+#### Language & Frame
 [![](https://img.shields.io/badge/-C++-A8B9CC?logo=Cplusplus&logoColor=white)]()
 [![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)]()
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python3-3776AB?logo=python&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/-Typecho-4479A1?logo=typecho&logoColor=white)]()
 
 #### Research Interests
  - 🔭 I’m currently working on the development of eda software.
