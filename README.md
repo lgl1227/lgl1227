@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Windows-11-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
 [![](https://img.shields.io/badge/Huawei-P30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
 [![](https://img.shields.io/badge/IOS-16.1-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Ipad-16.1-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
 
 #### Tools
 
