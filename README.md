@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Bilibili-007396?logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/356364558)
 [![](https://img.shields.io/badge/-Blog-007396?logo=appveyor&logoColor=ffffff)](https://lgl1227.github.io/)
 
-```
+<!--
 <table>
     <tr>
     	<th>微信公众号</th>
@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 		<td><img src="qq.png"></td>
 	</tr>
 </table>
-
+-->
