@@ -25,14 +25,15 @@ Here are some ideas to get you started:
 #### System
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
-[![](https://img.shields.io/badge/Huawei-P30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huawei.com/)
-[![](https://img.shields.io/badge/IOS-16.1-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Ipad-16.1-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Redmi-K70-DF0D16?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.xiaomi.com/)
+[![](https://img.shields.io/badge/IOS-18.2-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Ipad-18.2-3DDC84?logo=Apple&logoColor=ffffff)](https://www.apple.com/)
 
 #### Tools
 
 [![](https://img.shields.io/badge/IntelliJ%20IDEA-2020.1.2-FE305E?logo=IntelliJ%20IDEA&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/PyCharm-2021.3.1-1BD88A?logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/Goland-2025.1-1BD88A?logo=Goland&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Microsoft%20Edge%20-%2086.0.622.5-366DBF?logo=Microsoft%20Edge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge)
 [![](https://img.shields.io/badge/Google%20Chrome%20-%2087.0.4280.88-4285F4?logo=Google-Chrome&logoColor=ffffff)](https://www.google.com/intl/zh-CN/chrome/)
 
