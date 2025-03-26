@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 #### Page view
 
+<!--
 <img align='right' src="./zinv.gif" width="430">
-
+-->
 #### System
 
 [![](https://img.shields.io/badge/Windows-11-0078D6?&logo=Windows&logoColor=ffffff)](https://www.microsoftstore.com.cn/software/windows)
