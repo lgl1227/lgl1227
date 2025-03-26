@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 
 [![AlexCoding's GitHub private stats](https://github-readme-stats-lgl1227.vercel.app/api?username=lgl1227&show_icons=true&theme=radical&count_private=true)](https://github.com/lgl1227/github-readme-stats)
 ![Top Langs](https://github-readme-stats-lgl1227.vercel.app/api/top-langs/?username=lgl1227&layout=compact)
-
-
-#### Page view
-
 <!--
+#### Page view
 <img align='right' src="./zinv.gif" width="430">
 -->
 #### System
